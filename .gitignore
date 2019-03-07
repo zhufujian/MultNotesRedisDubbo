@@ -21,3 +21,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.settings/org.eclipse.m2e.core.prefs
+MultNotesRedisDubboCore/.classpath
+MultNotesRedisDubboCore/.project
+MultNotesRedisDubboCore/.settings/org.eclipse.jdt.core.prefs
+MultNotesRedisDubboCore/.settings/org.eclipse.m2e.core.prefs
+.project
+MultNotesRedisDubboInterface/.settings/org.eclipse.m2e.core.prefs
+MultNotesRedisDubboInterface/.settings/org.eclipse.jdt.core.prefs
+MultNotesRedisDubboInterface/.classpath
+MultNotesRedisDubboDeploy/.settings/org.eclipse.m2e.core.prefs
+MultNotesRedisDubboDeploy/.settings/org.eclipse.jdt.core.prefs
+MultNotesRedisDubboDeploy/.classpath
+MultNotesRedisDubboCore/target/classes/spring-redis-sentinel.properties
+MultNotesRedisDubboCore/target/classes/redis-single.xml
+MultNotesRedisDubboCore/target/classes/redis-sentinel.properties
+MultNotesRedisDubboCore/target/classes/redis-cluster.xml
+MultNotesRedisDubboCore/target/classes/redis-cluster.properties
+MultNotesRedisDubboCore/target/classes/redis-cluster-sentinel.xml
+MultNotesRedisDubboCore/target/classes/log4j.properties
+MultNotesRedisDubboCore/target/classes/applicationContext.xml
